@@ -1,3 +1,3 @@
-# Trabajo Grupal Aplicativo web
-Repositorio creado para trabajo grupal
+# Trabajo Aplicativo web
+Aplicativo web de análisis de créditos.
 
